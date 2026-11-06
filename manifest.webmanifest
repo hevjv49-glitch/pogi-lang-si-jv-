@@ -1,0 +1,12 @@
+{
+  "name": "JIV'S BLASTT",
+  "short_name": "JIV'S BLASTT",
+  "description": "A neon block puzzle game. Think fast, clear big, blast on.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080b18",
+  "theme_color": "#080b18",
+  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]
+}
